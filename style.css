@@ -1,0 +1,11 @@
+.language-html {
+  display: inline-block;
+}
+span {
+  font-size: larger;
+}
+p {
+  font-size: 16px;
+  font-weight: 700;
+}
+
